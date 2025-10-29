@@ -1,4 +1,3 @@
-// Prints numbers 0 to 5.
 public class Demo0 {
     public static void main(String[] args) {
         int i = 0;
