@@ -1,6 +1,6 @@
 public class NumWords {
 	public static void main(String args[]) {
-		int number = Integer.parseInt(args[0]); // Convert the input argument from String to int.
+		int number = Integer.parseInt(args[0]);
 		int hundreds = number / 100;
 		int tens = (number % 100) / 10;
 		int ones = number % 10;

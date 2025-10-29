@@ -2,7 +2,6 @@
 // and prints them in increasing order.
 public class Ascend {
 	public static void main(String[] args) {
-		// Get the limit from command line argument
 		int lim = Integer.parseInt(args[0]);
 
 		// Generate three random integers in the range [0, lim)
